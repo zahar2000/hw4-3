@@ -1,0 +1,79 @@
+header {
+  background-color: rgb(238, 58, 184);
+  height: 40px;
+  margin-bottom: 5px;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+.menu {
+  background-color: rgb(238, 58, 184);
+  height: 40px;
+  margin-bottom: 5px;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+.bd1 {
+  float: left;
+  width: 80px;
+}
+.bd3 {
+  float: right;
+  background-color: rgb(192, 27, 192);
+  margin-bottom: 10px;
+  min-height: 165px;
+}
+.footer {
+  clear: both;
+  background-color: rgb(192, 27, 192);
+  height: 40px;
+  margin-top: 5px;
+  padding-left: 20px;
+  padding-top: 5px;
+}
+.bd2 {
+  background-color: rgb(192, 27, 192);
+  margin-left: 85px;
+  margin-right: 45px;
+  min-height: 125px;
+  padding-left: 20px;
+  padding-top: 40px;
+}
+.as1 {
+  background-color: rgb(192, 27, 192);
+  margin-bottom: 5px;
+  height: 50px;
+  text-align: center;
+  padding-top: 20px;
+}
+.as2 {
+  background-color: rgb(192, 27, 192);
+  height: 50px;
+  text-align: center;
+  padding-top: 20px;
+}
+.sec1 {
+  background-color: rgb(100, 16, 100);
+  margin-bottom: 5px;
+  margin-left: 15px;
+  margin-top: 25px;
+  margin-right: 25px;
+  padding-left: 20px;
+}
+.sec2 {
+  background-color: rgb(100, 16, 100);
+  margin-left: 15px;
+  margin-right: 25px;
+  padding-left: 20px;
+}
+.bd3 {
+  float: right;
+  writing-mode: vertical-rl;
+  text-align: center;
+  vertical-align: middle;
+  height: 105px;
+  min-width: 40px;
+}
+.manu {
+  padding-left: 40px;
+  padding-top: 5px;
+}
